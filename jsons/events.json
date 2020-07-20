@@ -1,0 +1,24 @@
+{
+    "acts":
+    [
+        {
+            "actName":"Первый акт",
+            "location":"jopa",
+            "messages":
+            [
+                {
+                    "type":"message",
+                    "time":"11:30",
+                    "characterID":1,
+                    "message":"ya eblan)"
+                },
+                {
+                    "type":"action",
+                    "characterID":1,
+                    "message":"пошёл нахуй"
+                }
+                
+            ]
+        }
+    ]
+}
